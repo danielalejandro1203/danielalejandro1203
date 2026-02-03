@@ -1,12 +1,12 @@
-# 👋 Hola, soy Daniel Gutierrez
+# 👋 Hi, I'm Daniel Gutierrez
 
 💻 **Python Backend / Web Developer**  
-🎓 TSU en Computación e Informática (3.5 años)  
-🌍 Abierto a oportunidades **remotas / híbridas**
+🎓 TSU in Computer Science & Information Technology (3.5 years)  
+🌍 Open to **remote / hybrid opportunities**
 
-Soy desarrollador enfocado en **Python y desarrollo web**, con experiencia creando
-aplicaciones backend y web que **consumen APIs REST públicas** para integrar datos y
-funcionalidades externas. Me gusta construir soluciones claras, funcionales y bien estructuradas.
+I am a developer focused on **Python and web development**, with experience creating
+backend and web applications that **consume public REST APIs** to integrate external
+data and functionality. I enjoy building solutions that are clear, functional, and well-structured.
 
 ---
 
@@ -16,55 +16,56 @@ funcionalidades externas. Me gusta construir soluciones claras, funcionales y bi
 - Python
 - Django
 - Flask
-- Consumo de APIs REST (requests, manejo de JSON, autenticación básica)
+- REST API consumption (requests, JSON handling, basic authentication)
 
 **Frontend**
 - HTML5
 - CSS3
 - JavaScript
 
-**Bases de Datos**
+**Databases**
 - SQL (SQLite / MySQL / PostgreSQL)
 
-**Herramientas**
+**Tools**
 - Git & GitHub
 - Virtual Environments
-- Manejo de entornos y dependencias
+- Environment and dependency management
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-🔹 **Aplicaciones Python con APIs REST**  
-Integración de APIs públicas para obtener y procesar datos externos dentro de aplicaciones Python.  
-> Tecnologías: Python · APIs REST · JSON
+🔹 **Python Applications with REST APIs**  
+Integration of public APIs to fetch and process external data within Python applications.  
+> Technologies: Python · REST APIs · JSON
 
-🔹 **Web App con Django**  
-Aplicación web con base de datos y lógica backend.  
-> Tecnologías: Django · Python · SQL · HTML · CSS
+🔹 **Web App with Django**  
+Web application with database and backend logic.  
+> Technologies: Django · Python · SQL · HTML · CSS
 
 🔹 **Todo App Backend**  
-Aplicación para gestión de tareas con persistencia en base de datos.  
-> Tecnologías: Flask · Python · SQL
+Task management application with database persistence.  
+> Technologies: Flask · Python · SQL
 
-📍 *(Revisa mis repositorios pinneados para ver los proyectos completos)*
-
----
-
-## 📈 En qué estoy trabajando ahora
-
-- Consumo e integración de **APIs REST públicas**
-- Mejora de arquitectura en proyectos Django y Flask
-- Refactorización de código y buenas prácticas
-- Preparación para roles **Junior Backend / Full-Stack**
+📍 *(Check my pinned repositories to see the full projects)*
 
 ---
 
-## 🤝 Conecta conmigo
+## 📈 What I'm Working On Now
+
+- Consuming and integrating **public REST APIs**
+- Improving architecture in Django and Flask projects
+- Code refactoring and best practices
+- Preparing for **Junior Backend / Full-Stack roles**
+
+---
+
+## 🤝 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-gh-python  
 - 📧 Email: danisite.online@gmail.com
 
 ---
 
-⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en contactarme!
+⭐ If any of my projects interest you, feel free to reach out!
+
