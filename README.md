@@ -63,7 +63,7 @@ Aplicación para gestión de tareas con persistencia en base de datos.
 ## 🤝 Conecta conmigo
 
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-gh-python  
-- 📧 Email: *(agrega aquí tu correo profesional)*
+- 📧 Email: danisite.online@gmail.com
 
 ---
 
