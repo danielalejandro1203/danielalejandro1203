@@ -35,19 +35,31 @@ data and functionality. I enjoy building solutions that are clear, functional, a
 
 ## 📌 Featured Projects
 
-🔹 **Python Applications with REST APIs**  
-Integration of public APIs to fetch and process external data within Python applications.  
-> Technologies: Python · REST APIs · JSON
+🔹 Django Ticket System
+A full-featured ticket management application with user authentication, ticket creation, status tracking, filtering, and a professional responsive dashboard using Bootstrap.
+Technologies: Django · Python · SQLite · Bootstrap · HTML · CSS · CRUD
 
-🔹 **Web App with Django**  
-Web application with database and backend logic.  
-> Technologies: Django · Python · SQL · HTML · CSS
+🔹 Django Form Application
+Web application to submit and manage job applications with database persistence and email confirmation, including an admin panel for review.
+Technologies: Django · Python · SQLite · HTML · CSS · Forms · CRUD
 
-🔹 **Todo App Backend**  
-Task management application with database persistence.  
-> Technologies: Flask · Python · SQL
+🔹 Student Management Desktop App
+A Python desktop application using PyQt6 for managing student data with full CRUD functionality and MySQL database integration.
+Technologies: Python · PyQt6 · MySQL · CRUD · GUI
 
-📍 *(Check my pinned repositories to see the full projects)*
+🔹 Weather Forecast Web App
+Interactive web app built with Streamlit to display real-time weather information from OpenWeatherMap API, including temperature trends and sky conditions.
+Technologies: Python · Streamlit · Requests · Plotly · OpenWeatherMap API
+
+🔹 Chat with Joker (AI Chatbot)
+Python-based AI chatbot using LLMs and prompt engineering to simulate a custom character personality with dynamic, personalized conversations.
+Technologies: Python · OpenAI API / LLM · Prompt Engineering · NLP
+
+🔹 Email Webcam Detection
+Desktop Python application that captures webcam images when a person is detected and sends them automatically via email.
+Technologies: Python · OpenCV · SMTP / Email · Image Capture
+
+📍 (Check my pinned repositories to see full projects and code)
 
 ---
 
